@@ -17,7 +17,7 @@ options:
                         GitLab token with appropriate permissions.
   --output_folder OUTPUT_FOLDER
                         Folder where the projects will be cloned.
-  --branch BRANCH       Branch to switch to after cloning (if it exists).
+  --branch BRANCH       Branch to switch to after cloning (if it exists). (Optionnal)
 ```
 
 ## Known issues
