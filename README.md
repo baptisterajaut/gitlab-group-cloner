@@ -3,7 +3,7 @@
 A simple yet efficient multiple goup (and subgroup) gitlab cloner in python.
 
 ```
-usage: cloneall.py [-h] [--group_ids GROUP_IDS [GROUP_IDS ...]] [--gitlab_url GITLAB_URL] [--gitlab_token GITLAB_TOKEN] [--output_folder OUTPUT_FOLDER] [--branch BRANCH]
+usage: gitlab-group-cloner.py  [-h] [--group_ids GROUP_IDS [GROUP_IDS ...]] [--gitlab_url GITLAB_URL] [--gitlab_token GITLAB_TOKEN] [--output_folder OUTPUT_FOLDER] [--branch BRANCH]
 
 Script to clone projects from GitLab groups.
 
