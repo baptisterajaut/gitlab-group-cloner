@@ -1,4 +1,4 @@
-# Gitlab mass conser
+# Gitlab mass cloner
 
 A simple yet efficient multiple goup (and subgroup) gitlab cloner in python.
 
